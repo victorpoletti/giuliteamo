@@ -49,12 +49,12 @@
     <main>
         <div class="timeline">
             <div class="event">
-                <h3>Fecha Importante 1</h3>
-                <p>Descripción aquí...</p>
+                <h3>Primer beso</h3>
+                <p>9 de diciembre a las 11 y 40...</p>
             </div>
             <div class="event">
-                <h3>Fecha Importante 2</h3>
-                <p>Descripción aquí...</p>
+                <h3>Primeras flores</h3>
+                <p>21 de seteimbre...</p>
             </div>
             <!-- Puedes agregar más fechas aquí -->
         </div>
